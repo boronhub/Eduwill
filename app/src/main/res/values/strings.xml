@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Eduwill</string>
+    <string-array name="choice_items_education">
+        <item>11th Grade</item>
+        <item>12th Grade</item>
+        <item>Undergraduate</item>
+        <item>Graduate</item>
+    </string-array>
+    <string-array name="choice_items_location">
+        <item>Nayi Disha,Harijan Colony, DLF Phase V</item>
+        <item>NGO_2</item>
+        <item>NGO_3</item>
+    </string-array>
+    <string-array name="choice_items_timings">
+        <item>9:00AM to 11:00AM</item>
+        <item>12:00PM to 2:00PM</item>
+        <item>4:00PM to 6:00PM</item>
+    </string-array>
+    <string-array name="choice_items_age">
+        <item>5th Grade</item>
+        <item>6th Grade</item>
+        <item>7th Grade</item>
+        <item>8th Grade</item>
+        <item>9th Grade</item>
+
+    </string-array>
+    <string-array name="choice_items_subject">
+        <item>Mathematics</item>
+        <item>English</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Hindi</item>
+        <item>Social Studies</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144581186957",
+    "firebase_url": "https://eduwill-26e78.firebaseio.com",
+    "project_id": "eduwill-26e78",
+    "storage_bucket": "eduwill-26e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144581186957:android:c7c736fcec8e81564bd9c4",
+        "android_client_info": {
+          "package_name": "com.boron.eduwill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144581186957-50b02hibm6uo8l33h2998rfg294vqp66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boron.eduwill",
+            "certificate_hash": "2b781dd0d0ad23bc4447d84bb4b79db7efacbec0"
+          }
+        },
+        {
+          "client_id": "144581186957-pn49059s0fis08j1a31eidu3bv30hj4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKc8otN-1dNnUlm7o99JP5lmW9ldG580s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144581186957-pn49059s0fis08j1a31eidu3bv30hj4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
